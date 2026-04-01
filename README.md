@@ -1,34 +1,68 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Qasim Hassan
-====================================================================================================================================
+# Hi, I’m Syed Qasim Hassan Jaffry
 
-Mobile and Web Developer
-------------------------
+Senior Full-Stack & React Native engineer shipping AI, AR, and workflow products for remote teams, Upwork clients, and founders who need reliable web + mobile delivery.
 
-A passionate and results-driven software developer with a rich background in the field, spanning over 3 years. My journey in software development has been an exciting exploration of various programming languages and technologies, allowing me to cultivate a diverse skill set that I'm eager to bring to your projects.
-
-<a href="https://www.github.com/qasimjaffry" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/qasimjaffry?logo=github&style=for-the-badge&color=22c55e&labelColor=0f172a" /></a>
-
-### Skills
-
-
-<p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a><a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a><a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a><a href="https://solana.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/solana-colored.svg" width="36" height="36" alt="Solana" /></a><a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a><a href="https://web3js.readthedocs.io/en/v1.7.1/#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/web3js-colored.svg" width="36" height="36" alt="Web3Js" /></a>
+<p align="center">
+  <span style="font-size:0.9em">AI · AR · Remote-first delivery</span>
 </p>
 
+---
 
-### Socials
+## What I build
 
-<p align="left"> <a href="https://www.github.com/qasimjaffry" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
+| Web & Ops | Mobile & AI |
+| --- | --- |
+| ⚡ React/Next.js dashboards with PostgreSQL, CI/CD, observability, and automation-ready data layers. | 📱 React Native & Expo apps with Redux/Zustand, Firebase sync, offline support, and push notifications. |
+| 🧠 Claude-3.5, OpenRouter, Whisper, and Clarif-powered assistants that enrich workflows, summaries, and conversions. | 🕶️ AR/ML interactions (Interior Assistant style) that blend Viro React, ML models, and Firebase for context-aware experiences. |
 
-### Badges
+---
 
-<b>My GitHub Stats</b>
+## Recent highlights
 
-<a href="http://www.github.com/qasimjaffry"><img src="https://github-readme-stats.vercel.app/api?username=qasimjaffry&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=64748b&icon_color=22c55e&bg_color=0f172a&hide_border=true&show_icons=true" alt="qasimjaffry's GitHub stats" /></a>
+1. **BugMapper** – *React Native · Node · PostgreSQL · Firebase/Zustand*  
+   Greenhouse-monitoring app that visualizes trap counts, plant diseases, and chemical logs with responsive mobile dashboards.
 
-<a href="http://www.github.com/qasimjaffry"><img src="https://github-readme-streak-stats.herokuapp.com/?user=qasimjaffry&stroke=64748b&background=0f172a&ring=3382ed&fire=3382ed&currStreakNum=64748b&currStreakLabel=3382ed&sideNums=64748b&sideLabels=64748b&dates=64748b&hide_border=true" /></a>
+2. **Qubio** – *React Native · MongoDB · RevenueCat · RTK Query*  
+   Dynamic QR content stacks for video, audio, and image QR codes plus live updates from the mobile console.
 
-<a href="http://www.github.com/qasimjaffry"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=qasimjaffry&bg_color=0f172a&color=64748b&line=22c55e&point=64748b&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+3. **CatChat** – *Next.js · Claude-3.5 · Stability AI · Tailwind · PWA*  
+   AI roleplay playground with multiple Claude-powered “cats,” image generation, and responsive chat experience.
 
-<a href="https://github.com/qasimjaffry" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qasimjaffry&langs_count=10&title_color=3382ed&text_color=64748b&icon_color=22c55e&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+4. **RealHelp / SafeDeal** – *React Native · Next.js · Firebase · Agora · React Query*  
+   Messaging/video/call platform with community scoring and AI-powered shopping insights.
+
+5. **Interior Assistant** – *React Native · Viro/ML · Firebase*  
+   AR interior-design workflow that recognizes furniture via ML and overlays smart layout suggestions.
+
+---
+
+## Tech & skills
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React%20Native-61DAFB?logo=react&logoColor=white" alt="React Native" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Firebase-ffca28?logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white" alt="Redux" />
+  <img src="https://img.shields.io/badge/Zustand-000000?logo=Zustand&logoColor=white" alt="Zustand" />
+  <img src="https://img.shields.io/badge/React%20Query-FF4154?logo=react-query&logoColor=white" alt="React Query" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white" alt="Tailwind" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white" alt="GraphQL" />
+  <img src="https://img.shields.io/badge/Claude-000000?logo=ai&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/OpenRouter-009EDA?logo=openai&logoColor=white" alt="OpenRouter" />
+  <img src="https://img.shields.io/badge/Whisper-735AAD?logo=whisper&logoColor=white" alt="Whisper" />
+  <img src="https://img.shields.io/badge/ViroReact-3B82F6?logo=react&logoColor=white" alt="Viro React" />
+  <img src="https://img.shields.io/badge/Expo-d04f3e?logo=expo&logoColor=white" alt="Expo" />
+  <img src="https://img.shields.io/badge/PWA-034f8d?logo=pwa&logoColor=white" alt="PWA" />
+</p>
+
+---
+
+## Let’s collaborate
+
+- Portfolio: [https://portfolio-q733vy1au-qasimjaffry.vercel.app](https://portfolio-q733vy1au-qasimjaffry.vercel.app)  
+- Open to remote roles, Upwork gigs, and longer partnerships
