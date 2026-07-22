@@ -1,88 +1,110 @@
-# Qasim Hassan
+# Hi — I'm Qasim Hassan
 
-**Senior Full-Stack Engineer** · Shipping AI-native mobile and web products, solo and in small teams
+**Senior Full-Stack Engineer** who ships AI-native **mobile + web products** end to end — for startups, product teams, and as a Top Rated Plus freelancer.
 
-![Available](https://img.shields.io/badge/●_Available_for_remote_work-3fb950?style=flat-square&logoColor=white)
-![Upwork](https://img.shields.io/badge/Top_Rated_Plus_·_Upwork-58a6ff?style=flat-square)
-![Jafrix](https://img.shields.io/badge/Founder_@_Jafrix_System-bc8cff?style=flat-square)
-![Location](https://img.shields.io/badge/Lahore,_Pakistan-ffa657?style=flat-square)
+I don't just build features. I own the surface users touch: React Native / Expo apps, React & Next.js clients, subscription billing (Stripe + RevenueCat), and the AI flows that make the product feel smart.
+
+<p align="left">
+  <a href="https://qasimjaffry.github.io/qasim-portfolio/"><img src="https://img.shields.io/badge/Portfolio-View_case_studies-111827?style=for-the-badge" alt="Portfolio" /></a>
+  &nbsp;
+  <a href="https://linkedin.com/in/qasim-hassan-02871a171"><img src="https://img.shields.io/badge/LinkedIn-Message_me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  &nbsp;
+  <a href="https://www.upwork.com/freelancers/~011828438344ce4299"><img src="https://img.shields.io/badge/Upwork-Top_Rated_Plus-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" /></a>
+</p>
+
+```text
+📍 Lahore, Pakistan (PKT / UTC+5)  ·  Remote-first  ·  Open to relocate: Germany · Canada · UAE
+⏱ Async-friendly  ·  Overlap with EU / US mornings by arrangement
+✉️  qhassan1213@gmail.com
+```
 
 ---
 
-## At a glance
+## Proof, not vibes
 
-| 6+ Years shipping | $70K+ Upwork earned | 100% Job Success | 12+ Products shipped |
+| | | | |
 |:-:|:-:|:-:|:-:|
+| **6+** years shipping | **$70K+** earned on Upwork | **100%** Job Success | **12+** products live |
+| **10K+** Play downloads (Agenticly) | **4.8★** Play rating | **Top Rated Plus** | **Jafrix** — my studio |
 
 ---
 
-## What I work with
+## Right now
 
-| | |
+```yaml
+shipping:
+  - Innerverse — solo AI mood / wellness product (Play + web)
+  - Agenticly — team product · frontend + Stripe/RevenueCat
+building:
+  - Dealflow AI — freelancer CRM (Next.js + Expo + Supabase)
+  - Decidr — AI decision matrices with explainable scoring
+open_to:
+  - Senior / Lead remote roles ($50K–$120K)
+  - High-value freelance & architecture consulting
+  - Long-term product partnerships
+```
+
+---
+
+## Who this is for
+
+**Hire / retain me if you need someone who:**
+- Ships **production** mobile + web — not demos, not half-finished MVPs
+- Can own **frontend + payments** (or more) without waiting for five other people
+- Has already worked with **US / international clients** and remote product teams
+- Speaks both **product** and **engineering** — charts, entitlements, offline sync, AI UX
+
+**Skip me if you need** a ticket-only junior, a design-only hire, or someone who only writes backend tickets all day.
+
+---
+
+## Selected work (live products)
+
+| Product | What I owned | Signal |
+|---|---|---|
+| **[Agenticly](https://agenticly.app)** — AI crypto & stocks research | Frontend (Expo + React web) + **Stripe / RevenueCat** on a team product | **10K+** Play · **4.8★** · [iOS](https://apps.apple.com/us/app/agenticly-stock-crypto-ai/id6760048191) + Android + web |
+| **[Innerverse](https://innerverse.app)** — mood galaxy + AI companion | Solo founder · Skia cosmos UI · Mira AI · RevenueCat | Live on Play + web · [repo](https://github.com/QasimJaffry/Innerverse) |
+| **[Kitty Nip](https://apps.apple.com/us/app/kitty-nip-cat-dating-app/id1520805359)** — cat social | Full product ownership · geo · chat · IAP | **10K+** Play · iOS + Android |
+| **[BugMapper](https://www.bugmapper.com.tr/)** — greenhouse field ops | Mobile + web frontend · offline sync · PIM® upload | Live across TR greenhouse regions |
+| **[Safe Deal](https://www.joinsafedeal.com/)** — AI shopping browser | React Native frontend · WebView + AI verdicts | **5K+** Play · **4.5★** |
+| **[Decidr](https://decidr-henna.vercel.app/)** — AI decision matrices | Personal SaaS · weighted scoring · Stripe Pro | Live demo · [repo](https://github.com/QasimJaffry/Decidr) |
+| **RealTag** | Detect → SAM2 segment → DINOv2 re-ID pipeline | Hybrid RN + FastAPI |
+| **Interio** | On-device ML Kit → ViroReact AR try-on | FYP → still shipping |
+
+Full case studies → **[qasimjaffry.github.io/qasim-portfolio](https://qasimjaffry.github.io/qasim-portfolio/)**
+
+---
+
+## Stack I ship with
+
+| Layer | Tools |
 |---|---|
-| **Mobile** | React Native, Expo, iOS & Android, Vision Camera, RevenueCat, push notifications |
-| **Web** | Next.js, React, TypeScript, TailwindCSS, Vite |
-| **AI & ML** | OpenAI, Claude API, LangGraph, Whisper, ML Kit, YOLO11, SAM2, DINOv2 |
-| **Backend & Cloud** | Node.js, FastAPI, Firebase, Supabase, PostgreSQL, REST APIs, Stripe |
-| **Real-time** | WebRTC, Socket.io, live video & voice |
-| **AR** | ViroReact, on-device detection, true-scale 3D placement |
+| **Mobile** | React Native · Expo · Vision Camera · RevenueCat · push · offline-first |
+| **Web** | Next.js · React · TypeScript · Vite · Tailwind |
+| **AI** | OpenAI · Claude · LangGraph · Plotly charts · YOLO11 · SAM2 · DINOv2 · ML Kit |
+| **Backend** | Node.js · FastAPI · Firebase · Supabase · PostgreSQL · Stripe |
+| **Realtime / AR** | WebRTC · Socket.io · ViroReact |
 
 ---
 
-## Selected work
+## How I work remotely
 
-**[Agenticly](https://agenticly.app) — AI Crypto & Stocks Research**
-Team product. Frontend (Expo mobile + React web) and payments (RevenueCat + Stripe) into one entitlement model. Live on [Play Store](https://play.google.com/store/apps/details?id=computer.star.agenticly) (**10K+**, **4.8★**), [App Store](https://apps.apple.com/us/app/agenticly-stock-crypto-ai/id6760048191), and web.
-`React Native` `Expo` `React` `Firebase` `RevenueCat` `Stripe`
-
----
-
-**[Innerverse](https://innerverse.app) — Mood Galaxy + AI Companion**
-Solo founder product under Jafrix Systems. Skia cosmos mood journal, Mira AI for pattern reflection, meditation library, RevenueCat premium. Live on Play Store + web.
-`React Native` `Expo` `Skia` `Firebase` `OpenAI` `RevenueCat`
+- **Timezone:** PKT (UTC+5) — happy to overlap EU afternoons / US mornings
+- **Communication:** clear written updates, Loom when useful, async by default
+- **Delivery:** milestones you can demo — not “still refactoring” forever
+- **Ownership:** I prefer problems where I can own a surface end to end
 
 ---
 
-**[Kitty Nip](https://apps.apple.com/us/app/kitty-nip-cat-dating-app/id1520805359) — Cat Social / Dating**
-Full product ownership of a live React Native social app — geo discovery, profiles, chat, ads, IAP. **10K+** Play Store downloads · iOS + Android.
-`React Native` `Firebase` `IAP` `Geolocation`
+## Let's talk
 
----
+| Channel | Link |
+|---|---|
+| 🌐 Portfolio | [qasimjaffry.github.io/qasim-portfolio](https://qasimjaffry.github.io/qasim-portfolio/) |
+| 💼 LinkedIn | [linkedin.com/in/qasim-hassan-02871a171](https://linkedin.com/in/qasim-hassan-02871a171) |
+| ⭐ Upwork | [Top Rated Plus profile](https://www.upwork.com/freelancers/~011828438344ce4299) |
+| ✉️ Email | qhassan1213@gmail.com |
 
-**[BugMapper](https://www.bugmapper.com.tr/) — Greenhouse Field + Advisor UI**
-Frontend for mobile field work and web charts/maps — QR trap deploy, offline sync, PIM® photo upload. Live across multiple Turkish greenhouse regions.
-`React Native` `Expo` `Offline-first` `Web`
+**Open to:** senior/lead remote roles · freelance & consulting · architecture advisory · relocation conversations.
 
----
-
-**[Safe Deal](https://www.joinsafedeal.com/) — AI Shopping Browser**
-React Native frontend for an in-app marketplace WebView with AI review summaries and price history. **5K+** Play downloads · **4.5★**.
-`React Native` `Expo` `WebView`
-
----
-
-**[Decidr](https://decidr-henna.vercel.app/) — AI Decision Matrices**
-Personal SaaS: weighted option × criteria matrices with explainable AI scoring, what-if simulation, and Stripe Pro.
-`Next.js` `TypeScript` `Supabase` `OpenRouter` `Stripe`
-
----
-
-**RealTag — Detect → Segment → Re-ID**
-Hybrid ML app: Vision Camera + FastAPI. YOLO11 detects, SAM2 segments, DINOv2 embeds crops for re-identification across frames.
-`React Native` `FastAPI` `YOLO11` `SAM2` `DINOv2`
-
----
-
-**Interio — AR Interior Try-On**
-Scan a room, detect furniture on-device (ML Kit), place true-scale GLB models in AR (ViroReact). Started as my FYP; still iterating.
-`React Native` `Expo` `ViroReact` `ML Kit` `Firebase`
-
----
-
-## Connect
-
-- 🌐 Portfolio: [qasimjaffry.github.io/qasim-portfolio](https://qasimjaffry.github.io/qasim-portfolio/)
-- 💼 LinkedIn: [linkedin.com/in/qasim-hassan-02871a171](https://linkedin.com/in/qasim-hassan-02871a171)
-- ✉️ Email: qhassan1213@gmail.com
-- ⭐ Upwork: [upwork.com/freelancers/~011828438344ce4299](https://www.upwork.com/freelancers/~011828438344ce4299)
-- Open to senior/lead remote roles, architecture consulting, and high-value freelance
+I usually reply within **24 hours**.
