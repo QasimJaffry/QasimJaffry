@@ -50,6 +50,6 @@ About **6 years** building mobile and web products — freelance (Top Rated Plus
 - Portfolio: [qasimjaffry.github.io/qasim-portfolio](https://qasimjaffry.github.io/qasim-portfolio/)
 - LinkedIn: [linkedin.com/in/qasim-hassan-02871a171](https://linkedin.com/in/qasim-hassan-02871a171)
 - Upwork: [upwork.com/freelancers/~011828438344ce4299](https://www.upwork.com/freelancers/~011828438344ce4299)
-- Email: qhassan1213@gmail.com
+- Email: qhassan1214@gmail.com
 
 I usually reply within a day.
