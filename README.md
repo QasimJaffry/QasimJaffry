@@ -8,11 +8,13 @@ Lahore (UTC+5) · about six years · open to remote senior roles
 
 ---
 
+<img src="assets/apps.png" alt="Screens from Innerverse, BugMapper and Agenticly" width="100%">
+
 ## Shipped
 
-Each row says what I did and where you can check it. Client source stays private, so most rows link to the live product.
+Client source stays private, so most rows link to the live product.
 
-| Product | My part | Check it |
+| Product | What I did | Check it |
 |---|---|---|
 | **Innerverse** | Everything: design, React Native app, Firebase backend, billing, Play release. A mood journal drawn as a galaxy, rendered with Skia | [Google Play](https://play.google.com/store/apps/details?id=innerverse.app) · [innerverse.app](https://innerverse.app) |
 | **BugMapper** (2023 to now) | Senior engineer on a greenhouse pest-scouting platform. The field app: camera QR scanning, offline SQLite queue with sync, encrypted file transfer with an on-site device, English and Turkish | [bugmapper.com.tr](https://bugmapper.com.tr/) |
@@ -39,6 +41,4 @@ Short, from real work.
 
 ## Stack
 
-<img src="https://skillicons.dev/icons?i=react,ts,nextjs,nodejs,firebase,postgres,tailwind,git" alt="React, TypeScript, Next.js, Node.js, Firebase, PostgreSQL, Tailwind, Git" />
-
-React Native · Expo · Skia · Zustand · Redux Toolkit · SQLite · Stripe · RevenueCat · GitHub Actions
+React Native, Expo, Skia, Zustand, Redux Toolkit, SQLite · React, Next.js, TypeScript, Tailwind · Firebase, Cloud Functions, Node.js, PostgreSQL · Stripe, RevenueCat · GitHub Actions, EAS Build
