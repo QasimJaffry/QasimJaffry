@@ -40,25 +40,10 @@ I build the parts of mobile and web apps that have to keep working after launch:
 
 Client source stays private, so most entries link to the live product instead.
 
-## What I'm usually asked to fix
+## How I build
 
-- Subscriptions that grant or revoke access wrongly across Stripe, RevenueCat, Apple and Google
-- Offline-first apps that lose or duplicate data when the connection returns
-- Auth and onboarding flows that break on one platform only
-- React Native upgrades on apps that started life as class components
+<img src="assets/how-i-build.png" alt="Three patterns from shipped apps: queue first and sync later, entitlements on the server, validate receipts yourself" width="100%">
 
-## Working notes
+Usually asked to fix: subscriptions that grant or revoke access wrongly across Stripe, RevenueCat, Apple and Google; offline apps that lose or duplicate data on reconnect; auth flows that break on one platform only; React Native upgrades on apps that started as class components.
 
-Short, from real work.
-
-- **Do entitlement writes on the server.** In Innerverse the premium flag is written only by a RevenueCat webhook, with tests; Firestore rules refuse client writes to it. Webhook handlers are idempotent so a retried event cannot double-grant.
-- **Queue first, sync later.** In BugMapper every count and photo lands in a local SQLite queue with a visible pending list, so a tunnel with no signal loses nothing.
-- **Validate store receipts yourself.** Kitty Nip checks Android purchases against the Play Developer API from a Cloud Function instead of trusting the client.
-
-## Stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,ts,nextjs,nodejs,firebase,postgres,tailwind,git" alt="React, TypeScript, Next.js, Node.js, Firebase, PostgreSQL, Tailwind, Git" />
-</p>
-
-React Native · Expo · Skia · Zustand · Redux Toolkit · SQLite · Stripe · RevenueCat · GitHub Actions
+<img src="assets/stack.png" alt="Stack: React Native, Expo, Skia, React, Next.js, Firebase, Stripe, RevenueCat, GitHub Actions" width="100%">
