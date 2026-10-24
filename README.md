@@ -10,7 +10,7 @@ Lahore (UTC+5) · about six years · open to remote senior roles
 
 ## Best work
 
-**Agenticly.** AI research assistant for crypto and stocks. I built the React Native app and web client, the scheduled-agents feature and the Stripe and RevenueCat billing that decides who may run an agent. Built with the team at Stars Computer.
+**Agenticly.** AI research assistant for crypto and stocks. A team project at Stars Computer where I did most of the engineering: the React Native app and web client, the scheduled-agents feature and the Stripe and RevenueCat billing that decides who may run an agent.
 [Google Play](https://play.google.com/store/apps/details?id=computer.star.agenticly) (10K+) · [App Store](https://apps.apple.com/us/app/agenticly-stock-crypto-ai/id6760048191) · [web](https://agenticly.app)
 
 **Kitty Nip.** A live React Native app with 10K+ downloads that I've maintained and extended since late 2023: Google, Apple and phone sign-in, subscription plans and restore purchase, Android receipt validation in a Cloud Function, converting legacy class components, and the upgrade to React Native 0.79.
@@ -26,8 +26,8 @@ Client source stays private, so these link to the live products.
 | Product | What I did | Check it |
 |---|---|---|
 | **BugMapper** (2023 to now, contract) | The field app for a greenhouse pest-scouting platform: camera QR scanning, offline SQLite queue with sync, encrypted file transfer with an on-site device, English and Turkish | [bugmapper.com.tr](https://bugmapper.com.tr/) |
-| **Safe Deal** | Contributor on the WebView shopping browser (Oct to Nov 2024): moved state from Redux and Context to Zustand, reworked data fetching with React Query, fixed a navigation loop | [Google Play](https://play.google.com/store/apps/details?id=com.safedeal.navigator) 5K+ |
-| **Bschedule** (2021 onward) | Staff and customer scheduling apps on one API, React Native. Built the admin app and upgraded it to React Native 0.73 in 2026 | Private client tool |
+| **Safe Deal** | Contributor on the WebView shopping browser (late 2024): moved state from Redux and Context to Zustand, reworked data fetching with React Query, fixed a navigation loop | [Google Play](https://play.google.com/store/apps/details?id=com.safedeal.navigator) 5K+ |
+| **Bschedule** (2021 onward) | Staff and customer scheduling apps on one API, React Native. Built the admin app | Private client tool, apps no longer on the stores |
 | **Decidr** | Weighted decision matrices with AI scoring and a reasoning trace. Personal project: Next.js, Supabase | [live](https://decidr-henna.vercel.app/) |
 
 ## What I'm usually asked to fix
