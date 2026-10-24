@@ -25,7 +25,7 @@ Client source stays private, so these link to the live products.
 
 | Product | What I did | Check it |
 |---|---|---|
-| **BugMapper** (2023 to now) | The field app for a greenhouse pest-scouting platform: camera QR scanning, offline SQLite queue with sync, encrypted file transfer with an on-site device, English and Turkish | [bugmapper.com.tr](https://bugmapper.com.tr/) |
+| **BugMapper** (2023 to now, contract) | The field app for a greenhouse pest-scouting platform: camera QR scanning, offline SQLite queue with sync, encrypted file transfer with an on-site device, English and Turkish | [bugmapper.com.tr](https://bugmapper.com.tr/) |
 | **Safe Deal** | The WebView shopping browser: link handling, loop protection, Zustand state | [Google Play](https://play.google.com/store/apps/details?id=com.safedeal.navigator) 5K+ |
 | **Bschedule** (2021 to 2022) | Staff and customer scheduling apps on one API, React Native | Private client tool, apps no longer on the stores |
 | **Decidr** | Weighted decision matrices with Stripe. Personal SaaS | [source](https://github.com/QasimJaffry/Decidr) · [live](https://decidr-henna.vercel.app/) |
