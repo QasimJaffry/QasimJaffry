@@ -1,26 +1,44 @@
-# Qasim Hassan
+<p align="center">
+  <img src="assets/hero.png" alt="Qasim Hassan, senior software engineer. Mobile and full-stack apps that keep working after launch." width="100%">
+</p>
 
-I build the parts of mobile and web apps that have to keep working after launch: offline sync, subscriptions, sign-in, store receipts and the release pipeline around them. React Native / Expo and React / Next.js, with Firebase, Stripe and RevenueCat behind them.
+<p align="center">
+  <a href="https://qasimjaffry.github.io/qasim-portfolio/"><b>Portfolio</b></a> &nbsp;·&nbsp;
+  <a href="https://linkedin.com/in/qasim-hassan-02871a171"><b>LinkedIn</b></a> &nbsp;·&nbsp;
+  <a href="https://www.upwork.com/freelancers/~011828438344ce4299"><b>Upwork</b></a> &nbsp;·&nbsp;
+  <a href="mailto:qhassan1214@gmail.com"><b>qhassan1214@gmail.com</b></a>
+</p>
 
-Lahore (UTC+5) · about six years · open to remote senior roles
-
-[Portfolio](https://qasimjaffry.github.io/qasim-portfolio/) · [LinkedIn](https://linkedin.com/in/qasim-hassan-02871a171) · [Upwork](https://www.upwork.com/freelancers/~011828438344ce4299) · qhassan1214@gmail.com
-
----
+I build the parts of mobile and web apps that have to keep working after launch: offline sync, subscriptions, sign-in, store receipts and the release pipeline around them. React Native / Expo and React / Next.js, with Firebase, Stripe and RevenueCat behind them. About six years, based in Lahore, open to remote senior roles.
 
 ## Shipped
 
-Each row says what I did and where you can check it. Client source stays private, so most rows link to the live product.
+<a href="https://play.google.com/store/apps/details?id=innerverse.app"><img src="assets/card-innerverse.png" alt="Innerverse: a mood journal drawn as a galaxy" width="100%"></a>
 
-| Product | My part | Check it |
+**Innerverse.** Every entry becomes a world on a galaxy map drawn with Skia. Design, app, Firebase backend, billing and the Play release are all mine. &nbsp;[Google Play](https://play.google.com/store/apps/details?id=innerverse.app) · [innerverse.app](https://innerverse.app)
+
+<br>
+
+<a href="https://bugmapper.com.tr/"><img src="assets/card-bugmapper.png" alt="BugMapper: scout the tunnels, count the traps" width="100%"></a>
+
+**BugMapper.** Greenhouse staff scan a trap's QR code with the camera, record the count and move on. Counts and photos queue in SQLite and sync when the signal returns; files go to an on-site device over an encrypted transfer. English and Turkish. &nbsp;[bugmapper.com.tr](https://bugmapper.com.tr/)
+
+<br>
+
+<a href="https://agenticly.app"><img src="assets/card-agenticly.png" alt="Agenticly: ask about crypto and stocks" width="100%"></a>
+
+**Agenticly.** Web and mobile client, scheduled agents, Stripe and RevenueCat billing. Built with the team at Stars Computer. &nbsp;[Google Play](https://play.google.com/store/apps/details?id=computer.star.agenticly) · [App Store](https://apps.apple.com/us/app/agenticly-stock-crypto-ai/id6760048191) · [web](https://agenticly.app)
+
+### More
+
+| Product | What I did | Check it |
 |---|---|---|
-| **Innerverse** | Everything: design, React Native app, Firebase backend, billing, Play release. A mood journal drawn as a galaxy, rendered with Skia | [Google Play](https://play.google.com/store/apps/details?id=innerverse.app) · [innerverse.app](https://innerverse.app) |
-| **BugMapper** (2023 to now) | Senior engineer on a greenhouse pest-scouting platform. The field app: camera QR scanning, offline SQLite queue with sync, encrypted file transfer with an on-site device, English and Turkish | [bugmapper.com.tr](https://bugmapper.com.tr/) |
-| **Agenticly** | Web and mobile client, scheduled agents, Stripe and RevenueCat billing. Team product, Stars Computer | [Google Play](https://play.google.com/store/apps/details?id=computer.star.agenticly) 10K+ · [App Store](https://apps.apple.com/us/app/agenticly-stock-crypto-ai/id6760048191) · [web](https://agenticly.app) |
 | **Kitty Nip** | Mobile engineer on a live React Native app: upgrades, sign-in, subscriptions, receipt validation in Cloud Functions | [App Store](https://apps.apple.com/us/app/kitty-nip-cat-dating-app/id1520805359) · [Google Play](https://play.google.com/store/apps/details?id=computer.star.kittynip) 10K+ |
 | **Safe Deal** | The WebView shopping browser: link handling, loop protection, Zustand state | [Google Play](https://play.google.com/store/apps/details?id=com.safedeal.navigator) 5K+ |
 | **Bschedule** (2021 to 2022) | Staff and customer scheduling apps on one API, React Native | Private client tool, apps no longer on the stores |
 | **Decidr** | Weighted decision matrices with Stripe. Personal SaaS | [source](https://github.com/QasimJaffry/Decidr) · [live](https://decidr-henna.vercel.app/) |
+
+Client source stays private, so most entries link to the live product instead.
 
 ## What I'm usually asked to fix
 
@@ -39,6 +57,8 @@ Short, from real work.
 
 ## Stack
 
-<img src="https://skillicons.dev/icons?i=react,ts,nextjs,nodejs,firebase,postgres,tailwind,git" alt="React, TypeScript, Next.js, Node.js, Firebase, PostgreSQL, Tailwind, Git" />
+<p>
+  <img src="https://skillicons.dev/icons?i=react,ts,nextjs,nodejs,firebase,postgres,tailwind,git" alt="React, TypeScript, Next.js, Node.js, Firebase, PostgreSQL, Tailwind, Git" />
+</p>
 
 React Native · Expo · Skia · Zustand · Redux Toolkit · SQLite · Stripe · RevenueCat · GitHub Actions
