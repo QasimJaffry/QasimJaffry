@@ -21,6 +21,19 @@ Lahore (UTC+5) · about six years · open to remote senior roles
 
 Client source stays private, so these link to the live products.
 
+## Open source
+
+Tools I built to test AI features instead of trusting them. Each has tests, CI and a demo that runs with one command.
+
+**verified-analyst.** Makes an AI data analyst prove its numbers: every figure in an answer must match a value a SQL query returned, or the answer is rejected. The check is plain code, not another model. Ships as an MCP server, an agent skill and a cross-model leaderboard. Python, DuckDB.
+[Repository](https://github.com/QasimJaffry/verified-analyst)
+
+**idk-check.** Tests whether a RAG app says "I don't know" when its documents can't answer a question, and whether it refuses questions it could have answered. Reports both rates with confidence intervals and fails CI when either gets worse. TypeScript, no runtime dependencies.
+[Repository](https://github.com/QasimJaffry/idk-check) · [try the judge in a browser](https://qasimjaffry.github.io/idk-check/)
+
+**Breakwater.** Records which API response fields each shipped app version reads, then tells a pull request which versions, and how many installs, a backend change would break. An SDK, a collector and a CLI in TypeScript.
+[Repository](https://github.com/QasimJaffry/breakwater)
+
 ## More
 
 | Product | What I did | Check it |
@@ -45,4 +58,4 @@ Client source stays private, so these link to the live products.
 
 ## Stack
 
-React Native, Expo, Skia, Zustand, SQLite · React, Next.js, TypeScript, Tailwind · Firebase, Cloud Functions, Node.js, PostgreSQL · Stripe, RevenueCat · GitHub Actions, EAS Build
+React Native, Expo, Skia, Zustand, SQLite · React, Next.js, TypeScript, Tailwind · Firebase, Cloud Functions, Node.js, PostgreSQL · Stripe, RevenueCat · GitHub Actions, EAS Build · Python, DuckDB, MCP, LLM evaluation
